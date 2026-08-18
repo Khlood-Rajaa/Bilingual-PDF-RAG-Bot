@@ -1,0 +1,30 @@
+arabic 
+1. أسئلة مباشرة (Direct Fact Retrieval)
+س1: ما هي اللغة المعتمدة في حالة وجود اختلاف في التفسير بين النصين العربي والإنجليزي؟
+
+س2: ما هو القانون الواجب التطبيق والمحاكم المختصة بنظر أي نزاع؟
+
+س3: ما هي المدة المحددة التي يلتزم فيها البنك والتاجر بعدم إفشاء المعلومات السرية؟
+
+س4: كم عدد أيام العمل المحددة للبنك للرد على الشكاوى إلكترونياً أو كتابياً؟
+
+س5: ما هي أرقام الهواتف المخصصة لخدمة عملاء "مجنيفيكا وبرايفت" لتقديم شكوى؟
+
+س6: ما هي أنواع البطاقات (Cards) المقبولة والمذكورة في العقد؟
+
+
+English 
+1. Direct Fact Retrieval (Direct Questions)
+Q1: Which language version shall prevail in case of a conflict or discrepancy between the Arabic and English text?
+
+Q2: Which courts have the exclusive jurisdiction to settle any disputes arising from this request?
+
+Q3: For how many years from the date of receipt must the bank and the merchant keep the information confidential?
+
+Q4: Within how many business days does ALEXBANK undertake to respond to a registered customer complaint?
+
+Q5: What are the dedicated phone numbers listed for Magnifica and Private customers to contact customer service?
+
+Q6: What is the official email address provided by ALEXBANK for customer support and complaints?
+
+Q7: How is the "Card Expiry Date" explicitly defined under the Definitions section?
